@@ -10,5 +10,5 @@ This is a sample web app that allows users to login and register for online cour
 
 ## Database UML Class Diagram:
 
-![DBFigure](C:\Users\drleo\iCloudDrive\Typora\Java\DBFigure.png)
+![DBFigure](https://github.com/drl96/OnlineCourseRegistration/blob/main/Resources/DBFigure.png)
 
